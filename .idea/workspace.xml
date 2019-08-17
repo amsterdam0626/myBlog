@@ -2,8 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07ceaf2-3fcf-4004-a46e-51df8005ae16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myBlog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/0.styles.56e59adf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/baseline-account_circle-24px.f322cb5a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/baseline-home-24px.5924881c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/home-bg.f5396e30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/search.83621669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/1.ffcff169.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/10.ca599ddf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/11.4778e441.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/12.183cf8a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/13.d1e6a803.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/14.02463a91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/15.7d2c91d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/16.888a915c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/17.01d65358.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/18.3ceb1b91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/4.0a792183.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/5.ae490e00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/6.7fd07089.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/7.3a325b28.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/8.68821263.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/9.0ca4b3ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.d6eb2e97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors~docsearch.f0362e73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseline-account_circle-24px.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseline-home-24px.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.b4d34adf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/img/home-bg.f5396e30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/img/search.83621669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/1.8f3b5413.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.8cba9c2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.7a1e2f9b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.bdca864a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.ee947b5d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.c773ff8a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.16d269c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.d1a3899b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.78c9870a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.3827be22.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.c4e92409.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.807642e8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.8e284ae4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.0a2d3679.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.36b23346.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.6227bae8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/vendors~docsearch.cfb1bbd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/category/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/java/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/nested/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/node/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/tag/es7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/tag/修饰器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/timeLine/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/web/es6/es7_decorator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/web/es6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/es7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/修饰器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeLine/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/es6/es7_decorator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/es6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -183,7 +264,7 @@
       <workItem from="1565694201353" duration="7912000" />
       <workItem from="1565781701138" duration="4724000" />
       <workItem from="1565867714552" duration="7530000" />
-      <workItem from="1565927155047" duration="14251000" />
+      <workItem from="1565927155047" duration="14593000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1566039013432</created>
@@ -210,16 +291,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2848000" />
+    <option name="totallyTimeSpent" value="3190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2047" y="184" width="1534" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49479166" visible="true" weight="0.31617647" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8963283" visible="true" weight="0.31617647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="npm" order="3" sideWeight="0.5052083" side_tool="true" visible="true" weight="0.31617647" />
+      <window_info id="npm" order="3" sideWeight="0.10367171" side_tool="true" visible="true" weight="0.31617647" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34302327" />
@@ -228,8 +309,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.44186047" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3270349" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.44186047" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3270349" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -292,7 +373,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
